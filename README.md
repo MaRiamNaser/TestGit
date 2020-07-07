@@ -1,2 +1,2 @@
 # TestGit
-testing for me
+Testing for Git command
